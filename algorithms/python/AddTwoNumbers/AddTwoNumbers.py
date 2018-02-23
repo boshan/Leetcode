@@ -1,9 +1,9 @@
 # Source : https://leetcode.com/problems/add-two-numbers/
 # Author : Bohan Shan
-# Date   : 2018-02-20
-    
+# Date   : 2018-02-22
+
 '''
-You are given two non-empty linked lists representing two non-negative integers. 
+You are given two non-empty linked lists representing two non-negative integers.
 The digits are stored in reverse order and each of their nodes contain a single digit.
 Add the two numbers and return it as a linked list.
 
@@ -15,7 +15,7 @@ Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
 Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 '''
-    
+
 
 # Definition for singly-linked list.
 # class ListNode(object):
@@ -36,7 +36,7 @@ class Solution(object):
         num2 = l2;
         sum2 = num2.val;
         count = 1;
-        
+
         while(num1.next != None):
             sum1 += num1.next.val * 10**count;
             num1 = num1.next;
@@ -65,4 +65,3 @@ class Solution(object):
             prev.next = curr;
 
         return head;
-        
