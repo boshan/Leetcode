@@ -1,5 +1,5 @@
 # Problem 3: Longest Substring Without Repeating Characters
-[Solution](./longestSubstringWithoutRepeatingCharacters.py)
+Solutions: [Python](./longestSubstringWithoutRepeatingCharacters.py)
 
 #### Difficulty: Medium
 

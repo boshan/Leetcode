@@ -1,5 +1,5 @@
 # Problem 2: Add Two Numbers
-[Solution](./addTwoNumbers.py)
+Solutions: [Python](./addTwoNumbers.py)
 #### Difficulty: Medium
 
 #### Problem

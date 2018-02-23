@@ -1,5 +1,5 @@
 # Problem 9: Palindrome Number
-[Solution](./palidromeNumber.py)
+Solutions: [Python](./palidromeNumber.py)
 #### Difficulty: Medium
 
 #### Problem
