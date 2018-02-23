@@ -1,9 +1,11 @@
 # Source : https://leetcode.com/problems/palindrome-number/
 # Author : Bohan Shan
 # Date   : 2018-02-22
+
 '''
 Determine whether an integer is a palindrome. Do this without extra space.
 '''
+
 class Solution(object):
     '''
     Checks if a number is a paladrome.
