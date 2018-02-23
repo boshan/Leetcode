@@ -1,5 +1,5 @@
 # Problem 1: Two Sum
-
+[Solution](../twoSum.py)
 
 #### Difficulty: Easy
 
