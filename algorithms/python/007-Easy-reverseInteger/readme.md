@@ -1,5 +1,5 @@
 # Problem 7: Reverse Integer
-[Solution](../reverseInteger.py)
+[Solution](./reverseInteger.py)
 #### Difficulty: Medium
 
 #### Problem
